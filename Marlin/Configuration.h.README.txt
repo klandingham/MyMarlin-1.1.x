@@ -1,0 +1,5 @@
+Saved versions of Configuration.h
+
+org	The orignal A8 version shipped with Marlin 1.1.9
+
+001	My edits to the org version. Mostly playing with probe values
